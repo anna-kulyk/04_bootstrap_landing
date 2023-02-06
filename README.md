@@ -2,4 +2,4 @@
 
 StartUp landing page with subscription feature
 
-![Image] (/img/header.jpg)
+![Image] (img/header.jpg)
